@@ -70,7 +70,7 @@ form{
 		color:#1d6668;
 		padding: 30px 30px;
 		text-align: center;
-		margin: 30px 30px;
+/* 		margin: 30px 30px; */
 
 }
 
@@ -89,9 +89,12 @@ label{
 /* style for form page */
 canvas#signature {
   border: 2px solid black;
+		margin-right: 50px;
+
 }
 
 form>* {
   margin: 10px;
+
 }
 /* style for form page */
